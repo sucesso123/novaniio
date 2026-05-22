@@ -118,7 +118,7 @@ export default function App() {
 
         <div className="mt-12 text-center">
           <p className="text-gray-600 text-sm font-medium">
-            Atendimento via WhatsApp &bull; <span className="text-green-700 font-bold">(11) 97632-5223</span>
+            Atendimento via WhatsApp &bull; <span className="text-green-700 font-bold">(11) 96250-9891</span>
           </p>
         </div>
       </main>
