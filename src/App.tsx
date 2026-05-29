@@ -1,6 +1,6 @@
 import { MessageCircle, FileText, Headphones, Shield, ChevronRight } from 'lucide-react';
 
-const WHATSAPP_NUMBER = '5511962834351';
+const WHATSAPP_NUMBER = '5511960298059';
 
 function whatsappLink(message: string) {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
